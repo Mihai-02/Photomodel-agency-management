@@ -1,0 +1,90 @@
+html {
+  /*background-color: red;*/
+  background-image: url('resources/register.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner {
+  position: absolute;
+  top: 0px;
+  left: 0px; 
+
+  margin: 0 auto;
+  text-align: center;
+}
+
+.bannerimage {
+  /*background: rgba(104, 28, 77), url('resources/logo.jpg');*/
+  background: url('resources/logo.jpg') no-repeat 50% 50% rgba(104, 28, 77);
+  /*background-image: url('resources/logo.jpg');*/
+  height: 60px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 100%;
+}
+
+.banner_contents {
+  width: 800px;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    text-align: left;
+}
+.box {
+  /*display: block;*/
+  text-align: center;
+  display: inline-block;
+  background-color: lightgrey;
+  width: 300px;
+  min-height: 100px;
+overflow: hidden;   
+  border: 15px solid rgba(237, 9, 157, 0.3);
+  padding: 20px;
+  margin: 20px;
+}
+
+input {
+  width: 200px;
+  padding: 5px 10px;
+  margin: 10px 0px;
+}
+
+input[type=submit]{
+  background-clip: padding-box;
+  background-color: rgb(250, 2, 77);
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  min-height: 3rem;
+  text-decoration: none;
+  width: auto;
+  margin:0 auto;
+   display:block;
+}
+
+input[type=submit]:hover,
+input[type=submit]:focus {
+  background-color: rgb(250, 45, 107);
+}
+
+input[type=submit]:active {
+  background-color: rgb(232, 2, 72);
+}

@@ -1,0 +1,4 @@
+build/
+nbproject/private
+src/java/credentials.properties
+web/META-INF
