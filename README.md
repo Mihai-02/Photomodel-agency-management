@@ -1,5 +1,5 @@
 # Photomodel-agency-management
-Web application for the management of a photomodel agency, featuring a simple web interface. It allows the registration of system users who can then manage entries such as models, impresarios and events through an SQL server database.
+Web application for the management of a photomodel agency, featuring a simple web interface. It allows the registration of system users who can then manage entries such as models, impresarios and events through an SQL Server database.
 
 ## Features
 - User registration and login
