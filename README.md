@@ -16,7 +16,7 @@ Web application for the management of a photomodel agency, featuring a simple we
 - Apache Tomcat
 
 ## Database schema
-![Database schema](docs/schema.png)
+![Database schema](docs/schema.jpg)
 
 ## Setup and Running
 1. Clone the repository
